@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=py,flask,html,css,go,nodejs,vite,express,rust"/>
 </p>
 
-https://discord.gg/bestnitro
+https://discord.cyberious.xyz
 
 <br>
 
