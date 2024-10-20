@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,flask,html,css,go,nodejs,react,next,ts,rust"/>
+    <img src="https://skillicons.dev/icons?i=py,flask,ts,react,next,nodejs,html,css,go,rust"/>
 </p>
 
 https://discord.cyberious.xyz
