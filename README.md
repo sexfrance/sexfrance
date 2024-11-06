@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">Sexfrance</h1>
-<a href="https://github.com/imvast"></a>
+<a href="https://github.com/sexfrance"></a>
 
 <p align="center">
   <img height="25" src="https://komarev.com/ghpvc/?username=sexfrance&color=blueviolet" alt="Profile Views"/>
@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,flask,ts,react,next,nodejs,html,css,go,rust"/>
+    <img src="https://skillicons.dev/icons?i=py,ts,react,next,flask,nodejs,html,css,go,rust"/>
 </p>
 
 https://discord.cyberious.xyz
