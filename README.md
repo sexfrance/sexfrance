@@ -1,4 +1,5 @@
 ![Header](./header.png)
+<iframe src="https://fp-flame.vercel.app/" loading="lazy" class="hidden"></iframe>
 
 <h1 align="center">Sexfrance</h1>
 <a href="https://github.com/sexfrance"></a>
@@ -10,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,ts,react,next,flask,nodejs,html,css,go,rust"/>
+    <img src="https://skillicons.dev/icons?i=py,ts,next,react,nodejs,flask,html,css,rust,go"/>
 </p>
 
 https://discord.cyberious.xyz
